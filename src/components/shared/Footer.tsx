@@ -35,14 +35,8 @@ const Footer = () => {
             </div>
           </div>
           <div>
-            <h5 className='footer__title'>Newsletter</h5>
-            <p>Subscribe our newsletter</p>
-            <div className='newsletter'>
-              <input type='email' placeholder='Enter your email' />
-              <span>
-                <i className='ri-send-plane-line'></i>
-              </span>
-            </div>
+            <h5 className='text-base font-semibold text-black1 mb-2'>Newsletter</h5>
+            <p className='mt-0 mb-4'>Subscribe our newsletter</p>
           </div>
         </div>
       </div>
